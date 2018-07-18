@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 EditText editText1;
 Button button1,button2;
 String s1;
-database dataa;
+database dataa;//kabali da
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
